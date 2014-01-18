@@ -22,6 +22,7 @@ settings = {"sRGBOn":(1,),
 "ddisplac_maxSubdivs": (4,),
 "sys_rayc_dynMemLimit": (26000,),
 "sys_regsgen_xc":(16,),
+"dmcs_timeDependent":(1,),
 }
 
 for item in settings.iteritems():
